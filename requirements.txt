@@ -1,0 +1,10 @@
+python-telegram-bot==13.7  # نسخه پایدار قدیمی
+
+
+
+flask
+matplotlib
+numpy
+pandas
+persiantools
+telegram
