@@ -411,7 +411,7 @@ def error_handler(update: Update, context: CallbackContext) -> None:
 keep_alive()  # این خط را قبل از main() اضافه کنید
 def main() -> None:
     # توکن ربات شما
-    TOKEN = '7853586472:AAHTzKyebcxbijMUqAH2ovYGVM2mgdz0ON0'
+    TOKEN = '7853586472:AAFV-O9m54jZ3ifiQ187eOT80jE6QxA3yV4'
 
     try:
         # تست اتصال و راه‌اندازی ربات
